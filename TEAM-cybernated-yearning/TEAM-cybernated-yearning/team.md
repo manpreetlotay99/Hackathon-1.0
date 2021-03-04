@@ -13,3 +13,9 @@ email id- manpreet3166@gmail.com
 college roll no- 1921062
 Area of interest- cyber security
 link of git repository- https://github.com/manpreetlotay99
+
+Mentor-
+name- Ranjodh Kaur
+designation- Assistant Professor
+email id- ranjodh.kaur@gmail.com
+link of git repository- https://github.com/ranjodh-kaur
